@@ -1,0 +1,580 @@
+#VRML V2.0 utf8
+
+Transform {
+	children [
+
+	Group {
+		children [
+
+		Shape {
+			geometry DEF 000002791A180620 IndexedLineSet {
+				coord Coordinate {
+					point [
+						-111.304 458.47 0,
+						265.501 458.47 0
+					]
+				}
+				coordIndex [
+					0,
+					1,
+					-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A1820B0 IndexedLineSet {
+				coord Coordinate {
+					point [
+						265.501 458.47 0,
+						265.501 458.47 360.125
+					]
+				}
+				coordIndex [
+					0,
+					1,
+					-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A180C80 IndexedLineSet {
+				coord Coordinate {
+					point [
+						-111.304 458.47 360.125,
+						265.501 458.47 360.125
+					]
+				}
+				coordIndex [
+					0,
+					1,
+					-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A1832C0 IndexedLineSet {
+				coord Coordinate {
+					point [
+						-111.304 458.47 0,
+						-111.304 458.47 360.125
+					]
+				}
+				coordIndex [
+					0,
+					1,
+					-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A180A60 IndexedLineSet {
+				coord Coordinate {
+					point [
+						265.501 458.47 0,
+						265.501 772.683 0
+					]
+				}
+				coordIndex [
+					0,
+					1,
+					-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A181C70 IndexedLineSet {
+				coord Coordinate {
+					point [
+						265.501 772.683 0,
+						265.501 772.683 360.125
+					]
+				}
+				coordIndex [
+					0,
+					1,
+					-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A183A30 IndexedLineSet {
+				coord Coordinate {
+					point [
+						265.501 458.47 360.125,
+						265.501 772.683 360.125
+					]
+				}
+				coordIndex [
+					0,
+					1,
+					-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A183920 IndexedLineSet {
+				coord Coordinate {
+					point [
+						265.501 772.683 0,
+						-111.304 772.683 0
+					]
+				}
+				coordIndex [
+					0,
+					1,
+					-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A1835F0 IndexedLineSet {
+				coord Coordinate {
+					point [
+						-111.304 772.683 0,
+						-111.304 772.683 360.125
+					]
+				}
+				coordIndex [
+					0,
+					1,
+					-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A180FB0 IndexedLineSet {
+				coord Coordinate {
+					point [
+						265.501 772.683 360.125,
+						-111.304 772.683 360.125
+					]
+				}
+				coordIndex [
+					0,
+					1,
+					-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A181FA0 IndexedLineSet {
+				coord Coordinate {
+					point [
+						-111.304 772.683 0,
+						-111.304 458.47 0
+					]
+				}
+				coordIndex [
+					0,
+					1,
+					-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A1823E0 IndexedLineSet {
+				coord Coordinate {
+					point [
+						-111.304 772.683 360.125,
+						-111.304 458.47 360.125
+					]
+				}
+				coordIndex [
+					0,
+					1,
+					-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A2435E0 IndexedFaceSet {
+				creaseAngle 2
+				coord Coordinate {
+					point [
+						-111.304 458.47 0,
+						265.501 458.47 0,
+						265.501 458.47 360.125,
+						-111.304 458.47 360.125
+					]
+				}
+				normal Normal {
+					vector [
+						0 -1 0,
+						0 -1 0,
+						0 -1 0,
+						0 -1 0
+					]
+				}
+				coordIndex [
+					3,	0,	1,	-1,
+					1,	2,	3,	-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A241E40 IndexedFaceSet {
+				creaseAngle 2
+				coord Coordinate {
+					point [
+						265.501 458.47 0,
+						265.501 772.683 0,
+						265.501 772.683 360.125,
+						265.501 458.47 360.125
+					]
+				}
+				normal Normal {
+					vector [
+						1 0 0,
+						1 0 0,
+						1 0 0,
+						1 0 0
+					]
+				}
+				coordIndex [
+					3,	0,	1,	-1,
+					1,	2,	3,	-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A244A20 IndexedFaceSet {
+				creaseAngle 2
+				coord Coordinate {
+					point [
+						265.501 772.683 0,
+						-111.304 772.683 0,
+						-111.304 772.683 360.125,
+						265.501 772.683 360.125
+					]
+				}
+				normal Normal {
+					vector [
+						0 1 0,
+						0 1 0,
+						0 1 0,
+						0 1 0
+					]
+				}
+				coordIndex [
+					3,	0,	1,	-1,
+					1,	2,	3,	-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A244360 IndexedFaceSet {
+				creaseAngle 2
+				coord Coordinate {
+					point [
+						-111.304 772.683 0,
+						-111.304 458.47 0,
+						-111.304 458.47 360.125,
+						-111.304 772.683 360.125
+					]
+				}
+				normal Normal {
+					vector [
+						-1 0 0,
+						-1 0 0,
+						-1 0 0,
+						-1 0 0
+					]
+				}
+				coordIndex [
+					3,	0,	1,	-1,
+					1,	2,	3,	-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A243AF0 IndexedFaceSet {
+				creaseAngle 2
+				coord Coordinate {
+					point [
+						-111.304 458.47 360.125,
+						265.501 458.47 360.125,
+						265.501 772.683 360.125,
+						-111.304 772.683 360.125
+					]
+				}
+				normal Normal {
+					vector [
+						0 0 1,
+						0 0 1,
+						0 0 1,
+						0 0 1
+					]
+				}
+				coordIndex [
+					3,	0,	1,	-1,
+					1,	2,	3,	-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A2430D0 IndexedFaceSet {
+				creaseAngle 2
+				coord Coordinate {
+					point [
+						265.501 458.47 0,
+						265.501 772.683 0,
+						-111.304 772.683 0,
+						-111.304 458.47 0
+					]
+				}
+				normal Normal {
+					vector [
+						0 0 -1,
+						0 0 -1,
+						0 0 -1,
+						0 0 -1
+					]
+				}
+				coordIndex [
+					1,	0,	3,	-1,
+					3,	2,	1,	-1
+				]
+			}
+		}
+		]
+	}
+	Group {
+		children [
+
+		Shape {
+			geometry DEF 000002791A1821C0 IndexedLineSet {
+				coord Coordinate {
+					point [
+						327.177 382.43 353.874,
+						292.99 858.598 353.874
+					]
+				}
+				coordIndex [
+					0,
+					1,
+					-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A182710 IndexedLineSet {
+				coord Coordinate {
+					point [
+						292.99 858.598 353.874,
+						71.9999 603.42 719.056
+					]
+				}
+				coordIndex [
+					0,
+					1,
+					-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A182820 IndexedLineSet {
+				coord Coordinate {
+					point [
+						327.177 382.43 353.874,
+						71.9999 603.42 719.056
+					]
+				}
+				coordIndex [
+					0,
+					1,
+					-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A180EA0 IndexedLineSet {
+				coord Coordinate {
+					point [
+						292.99 858.598 353.874,
+						-183.178 824.411 353.874
+					]
+				}
+				coordIndex [
+					0,
+					1,
+					-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A182B50 IndexedLineSet {
+				coord Coordinate {
+					point [
+						-183.178 824.411 353.874,
+						71.9999 603.42 719.056
+					]
+				}
+				coordIndex [
+					0,
+					1,
+					-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A181E90 IndexedLineSet {
+				coord Coordinate {
+					point [
+						-183.178 824.411 353.874,
+						-148.99 348.243 353.874
+					]
+				}
+				coordIndex [
+					0,
+					1,
+					-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A1812E0 IndexedLineSet {
+				coord Coordinate {
+					point [
+						-148.99 348.243 353.874,
+						71.9999 603.42 719.056
+					]
+				}
+				coordIndex [
+					0,
+					1,
+					-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A182600 IndexedLineSet {
+				coord Coordinate {
+					point [
+						-148.99 348.243 353.874,
+						327.177 382.43 353.874
+					]
+				}
+				coordIndex [
+					0,
+					1,
+					-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A242860 IndexedFaceSet {
+				creaseAngle 2
+				coord Coordinate {
+					point [
+						327.177 382.43 353.874,
+						292.99 858.598 353.874,
+						71.9999 603.42 719.056
+					]
+				}
+				normal Normal {
+					vector [
+						0.834901 0.0599432 0.547127,
+						0.834901 0.0599432 0.547127,
+						0.834901 0.0599432 0.547127
+					]
+				}
+				coordIndex [
+					2,	0,	1,	-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A243790 IndexedFaceSet {
+				creaseAngle 2
+				coord Coordinate {
+					point [
+						292.99 858.598 353.874,
+						-183.178 824.411 353.874,
+						71.9999 603.42 719.056
+					]
+				}
+				normal Normal {
+					vector [
+						-0.0599432 0.834901 0.547127,
+						-0.0599432 0.834901 0.547127,
+						-0.0599432 0.834901 0.547127
+					]
+				}
+				coordIndex [
+					2,	0,	1,	-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A242350 IndexedFaceSet {
+				creaseAngle 2
+				coord Coordinate {
+					point [
+						-183.178 824.411 353.874,
+						-148.99 348.243 353.874,
+						71.9999 603.42 719.056
+					]
+				}
+				normal Normal {
+					vector [
+						-0.834901 -0.0599432 0.547127,
+						-0.834901 -0.0599432 0.547127,
+						-0.834901 -0.0599432 0.547127
+					]
+				}
+				coordIndex [
+					2,	0,	1,	-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A244F30 IndexedFaceSet {
+				creaseAngle 2
+				coord Coordinate {
+					point [
+						-148.99 348.243 353.874,
+						327.177 382.43 353.874,
+						71.9999 603.42 719.056
+					]
+				}
+				normal Normal {
+					vector [
+						0.0599432 -0.834901 0.547127,
+						0.0599432 -0.834901 0.547127,
+						0.0599432 -0.834901 0.547127
+					]
+				}
+				coordIndex [
+					2,	0,	1,	-1
+				]
+			}
+		}
+		Shape {
+			geometry DEF 000002791A243E50 IndexedFaceSet {
+				creaseAngle 2
+				coord Coordinate {
+					point [
+						292.99 858.598 353.874,
+						-183.178 824.411 353.874,
+						-148.99 348.243 353.874,
+						327.177 382.43 353.874
+					]
+				}
+				normal Normal {
+					vector [
+						0 0 -1,
+						0 0 -1,
+						0 0 -1,
+						0 0 -1
+					]
+				}
+				coordIndex [
+					1,	0,	3,	-1,
+					3,	2,	1,	-1
+				]
+			}
+		}
+		]
+	}
+	]
+}
