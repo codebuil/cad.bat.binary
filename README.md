@@ -1,2 +1,6 @@
-# 3dmodel
-3d model cad and obj
+# 
+came back lather
+as it work fine
+
+
+
