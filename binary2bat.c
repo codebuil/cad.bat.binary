@@ -37,6 +37,12 @@ void load_binary_file(char *filename) {
         fread(&num4, sizeof(int), 1, fp);
             printf("line,%d,%d,%d,%d\r\n", num1, num2, num3, num4); // imprime no formato especificado
         }
+        else{
+        fread(&num1, sizeof(int), 1, fp); // lê o primeiro inteiro
+        fread(&num2, sizeof(int), 1, fp); // lê os outros três inteiros
+        fread(&num3, sizeof(int), 1, fp);
+        fread(&num4, sizeof(int), 1, fp); 
+        }
         
         
         
